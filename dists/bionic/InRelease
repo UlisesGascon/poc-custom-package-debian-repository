@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Ulises Gascon Demo
+Label: ulisesgascon
+Codename: bionic
+Date: Tue, 01 Aug 2023 15:44:05 UTC
+Architectures: amd64
+Components: main
+Description: Custom Packages for Ulises Gascon
+MD5Sum:
+ 5ad34aa5bbcf248f27bdafc4f8ac9cbf 1483 main/binary-amd64/Packages
+ 3c60d4b52abfd21f88832b8deb0237fb 662 main/binary-amd64/Packages.gz
+ 3de84142581fc10e5e53f8e2de4770d2 130 main/binary-amd64/Release
+SHA1:
+ c3cdc63d214d2ebbf5ada63a9c81526543e5b840 1483 main/binary-amd64/Packages
+ a3a79fb9bada70f31924e0474a9a5902fd1360fe 662 main/binary-amd64/Packages.gz
+ 47d785790262b00df42ad2fd8859d25e32eaaaf8 130 main/binary-amd64/Release
+SHA256:
+ 2a5f5bb0dd35e60e6814563b0611a68cc5847e1bb49c3d87c734d1f90e10caa1 1483 main/binary-amd64/Packages
+ d80d4800b91749a35b69045822c0515779f94ef615d7765ffced8f80d2b13752 662 main/binary-amd64/Packages.gz
+ 4f2b6c8b4ab0d09e41f3434043fbd07506d00ae2e0b81166f12c9a99853f8403 130 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEER+CyRMbOvAVOv6IAv1WqRl+UFTAFAmTJKEoACgkQv1WqRl+U
+FTBqFAv/a4i9qXKZOto86RZHX2WEBL2m8bGl7eFtu7p06l23ymM/mXOKqqOawHdT
+4kJeDLHP/L/jnfIusYBqyBiq46WbhMKelM8OFZInJk5K7QQlAPmmIVVMu+I4AA7B
+KV931TLwSNKjibpqJXthPe17okag+Y6lqSdUR/FLuGuWcGNsWGxVsqsgnSOwJ+iO
+hi0JSFxn62yGpnahRM3ZSG/bxTogAXXmYPJTQM72Gmtgkj+8lZKzPVbCnAOBo6kL
+EHisRksqXXUiTu7ge13DePRLT2v2vm6EMmG17xFErkeIqdmXIhfYyU1YTbLysvvc
+BVfdhUoyzK5+pMmTBZtt4nhd5hX2dgwrr7SR6enzPLFVSG94v/ZmNX+o8bSGJugC
+iq61vAOzgbdAzeRZigtCANYk3erbbJC63eW/DuLBkPysEQXbxC4ogOfBZp4MDxxt
+Wy8nw0ZC1561dDPMhvIkhA3XTKY/6mG+d7mvDxL6+ai2GElrtDmJRyhAdIWgy9Kl
+f8vWQQLk
+=9zy5
+-----END PGP SIGNATURE-----

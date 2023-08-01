@@ -1,0 +1,5 @@
+Component: main
+Origin: Ulises Gascon Demo
+Label: ulisesgascon
+Architecture: amd64
+Description: Custom Packages for Ulises Gascon

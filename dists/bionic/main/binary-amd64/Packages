@@ -1,0 +1,41 @@
+Package: demoapi
+Version: 1.0-0ubuntu1
+Architecture: amd64
+Maintainer: Ulises Gascon <ulises@linux.com>
+Installed-Size: 99667
+Depends: liblttng-ust0, libcurl4, libssl1.0.0, libkrb5-3, zlib1g
+Homepage: https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for-ubuntu
+Priority: optional
+Section: net
+Filename: pool/main/d/demoapi/demoapi_1.0-0ubuntu1_amd64.deb
+Size: 31712632
+SHA256: 86c7a8ef3a406e9425bfba6df3eabff5fbc72b5ac3d8d985337c3c4032cf215b
+SHA1: 9782efabfe2c8ee216a318cb33bbdddd63967c7f
+MD5sum: 6dbf5f72a1f8864641bbae73b42773d8
+Description: efficient demo api server written in C#
+ This package provides the very efficient demo api server
+ written in C# for the .NET 7.0 Platform
+ .
+ This is the main package with the binaries
+
+Package: demoapi-dbg
+Source: demoapi
+Version: 1.0-0ubuntu1
+Architecture: amd64
+Maintainer: Ulises Gascon <ulises@linux.com>
+Installed-Size: 9
+Depends: demoapi (= 1.0-0ubuntu1)
+Homepage: https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for-ubuntu
+Priority: optional
+Section: net
+Filename: pool/main/d/demoapi/demoapi-dbg_1.0-0ubuntu1_amd64.deb
+Size: 2228
+SHA256: 26481e97830e0d05aabee82e6a2e9c5edd30aaff13fd5c3c0a3629b1603cfe8a
+SHA1: 3a50561e46d1d9bc9899abf1bdd81e83842b2189
+MD5sum: 120f3c651e20f227b8f7ef09fae8ffef
+Description: efficient demo api server written in C#
+ This package provides the very efficient demo api server
+ written in C# for the .NET 7.0 Platform
+ .
+ This package contains the debugging symbols.
+
