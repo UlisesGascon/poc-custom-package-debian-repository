@@ -1,0 +1,7 @@
+Origin: Ulises Gascon Demo
+Label: ulisesgascon
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Custom Packages for Ulises Gascon
+SignWith: 47E0B244C6CEBC054EBFA200BF55AA465F941530
