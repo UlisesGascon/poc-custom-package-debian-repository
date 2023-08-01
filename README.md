@@ -29,3 +29,9 @@ sudo apt-get update
 ```bash
 sudo apt-get install demoapi
 ```
+
+5. Check the service status
+
+```bash
+systemctl -l status demoapi.service
+```
