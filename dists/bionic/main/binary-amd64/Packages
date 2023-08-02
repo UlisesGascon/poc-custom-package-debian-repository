@@ -8,10 +8,10 @@ Homepage: https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for
 Priority: optional
 Section: net
 Filename: pool/main/d/demoapi/demoapi_1.0-0ubuntu1_amd64.deb
-Size: 31712272
-SHA256: e2e9d1396ad356c3b3de498f99d58b0598f9599e0a3d7ada116b3f3b54961013
-SHA1: ff5722721e37477c84a22b8c15317d5c6df4de42
-MD5sum: 4a6cd64f7248d0d03cb3dc71f55f0346
+Size: 31713600
+SHA256: 4427d4c423b8d995fd37eac9419da827c08e29705fd95fb7edec9d69168c747d
+SHA1: dbc4b8933f7ed56eb67de5d0b24c253698e04309
+MD5sum: 8b0444e37ef09ef7b67a1aa8b6b66934
 Description: efficient demo api server written in C#
  This package provides the very efficient demo api server
  written in C# for the .NET 7.0 Platform
@@ -29,10 +29,10 @@ Homepage: https://github.com/UlisesGascon/poc-packaging-dot-net-core-service-for
 Priority: optional
 Section: net
 Filename: pool/main/d/demoapi/demoapi-dbg_1.0-0ubuntu1_amd64.deb
-Size: 2212
-SHA256: 38309446636e63f269aded6decf173362fd5d52875ebdd9aebd6a2969ba47ddf
-SHA1: 47db4cf8a16813cd6f5042a1203060e66587bb75
-MD5sum: 0f19fa503a81989d8c24d43d98d0f946
+Size: 2232
+SHA256: f26242ac8c2dad8230078ebf8be26d01117558a40b1ab81d7a1750b887d685e8
+SHA1: cff909307987c323340e79d2f015aaba8d1c638d
+MD5sum: 82077d3538c2aad2a2909c45dcd2ae3b
 Description: efficient demo api server written in C#
  This package provides the very efficient demo api server
  written in C# for the .NET 7.0 Platform
